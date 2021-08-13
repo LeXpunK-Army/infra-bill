@@ -1,4 +1,4 @@
-(D) DIGITAL ASSET. The term 'digital asset' means any cryptocurrency, token or other digital unit of account that is regularly traded or exchanged on at least one Major Digital Asset Exchange at least 180 days in the current calendar year and either: 
+(D) DIGITAL ASSET. The term 'digital asset' means any cryptocurrency, token or other fungible, digital unit of account that is regularly traded or exchanged on at least one Major Digital Asset Exchange at least 180 days in the current calendar year and either: 
 
   (i) is designed to represent, or be redeemable from the issuer of such unit of account for, one or more specified units of one or more legal tenders or securities; or 
   

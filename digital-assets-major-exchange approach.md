@@ -8,4 +8,4 @@
     
    * such unit of account is primarily stored and transferred on a  distributed database created, maintained and updated by a peer-to-peer network of software clients in accordance with a reasonably safe, live and fault-tolerant consensus algorithm.
 
-(E) MAJOR DIGITAL ASSET EXCHANGE. The term ‘Major Digital Asset Exchange’ means an internet marketplace primarily designed to for bringing together purchasers and sellers of cryptocurrencies, tokens or other digital units of account on which at least $100 million worth of such purchases and sales are effected in a calendar year. 
+(E) MAJOR DIGITAL ASSET EXCHANGE. The term ‘Major Digital Asset Exchange’ means an internet marketplace primarily designed for bringing together purchasers and sellers of cryptocurrencies, tokens or other digital units of account on which at least $100 million worth of such purchases and sales are effected in a calendar year. 

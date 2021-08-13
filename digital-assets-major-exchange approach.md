@@ -4,7 +4,7 @@
   
   (ii) satisfies both of the following conditions: 
   
-   * such unit of account either (1) has an equivalent value as currency; or (2) acts as a substitute for currency; and
+   * such unit of account either (a) has an equivalent value as currency; or (b) acts as a substitute for currency; and
     
    * such unit of account is primarily stored and transferred on a  distributed database created, maintained and updated by a peer-to-peer network of software clients in accordance with a reasonably safe, live and fault-tolerant consensus algorithm.
 
